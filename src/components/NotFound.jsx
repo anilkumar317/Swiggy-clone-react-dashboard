@@ -13,7 +13,7 @@ function NotFound() {
             fontSize: '1.2rem',
             color: 'steelblue',
             textDecoration: 'none',
-            boxShadow: '1px 2px 3px   rgba(0, 0, 0, 0.3)',
+            boxShadow: '1px 2px 4px   rgba(0, 0, 0, 0.3)',
             borderRadius: '3px',
             padding: '3px 3px',
           }}
